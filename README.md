@@ -2,6 +2,8 @@
 
 The goal of the project is to create a simple webapplication that features a Vue frontend and a .NET 3.1 API.
 
+**Important:** This is a practice project to learn .NET Core and as a demo project for future contracts. Suggestions on how to improve are extremely appriciated.
+
 Feature roadmap:
 
 - [ ] List of projects (title, thumbnail, short description, used technologies)
