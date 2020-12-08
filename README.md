@@ -1,7 +1,7 @@
 # Project Resume
 
 The goal of the project is to create a simple webapplication that features a Vue
-frontend and a .NET 3.1 API.
+frontend and a .NET Core 3.1 Web API.
 
 **Important:** This is a practice project to learn .NET Core and as a demo 
 project for future contracts. Suggestions on how to improve are extremely 
@@ -14,7 +14,7 @@ Feature roadmap:
 - [ ] Filtering based on tags
 - [ ] Custom markdown parsing to generate summarized list of uses per
 	technology and highlight in detail page of project 
-	([See Custom tag parsing](#custom-tag-parsing))
+	(See [Custom tag parsing](#custom-tag-parsing))
 
 
 -------------------
