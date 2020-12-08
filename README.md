@@ -5,7 +5,7 @@ frontend and a .NET Core 3.1 Web API.
 
 **Important:** This is a practice project to learn .NET Core and as a demo 
 project for future contracts. Suggestions on how to improve are extremely 
-appriciated.
+appreciated.
 
 Feature roadmap:
 
